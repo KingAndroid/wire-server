@@ -8,10 +8,8 @@
 -- Gundeck.)
 module Gundeck.Types.BulkPush where
 
-import Debug.Trace
 import Data.Aeson
 import Data.Id
-import Data.Misc
 import GHC.Generics
 import Gundeck.Types.Notification
 
